@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "this is message for id 01",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "ABC"
+    },
+    {
+      "id": 2,
+      "message": "this is message for id 02",
+      "attention": true,
+      "date": "05-04-2020",
+      "tech": "POLO"
+    },
+    {
+      "id": 3,
+      "message": "this is 03",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "TPU"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "HEllo",
+      "lastname": "JWRI"
+    },
+    {
+      "id": 2,
+      "firstname": "MUTTHI",
+      "lastname": "IRIS"
+    },
+    {
+      "id": 3,
+      "firstname": "fname",
+      "lastname": "POLO"
+    },
+    {
+      "firstname": "harami",
+      "lastname": "Vitrana",
+      "id": 4
+    }
+  ]
+}

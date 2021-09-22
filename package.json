@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "json-server": "json-server --watch db.json --port 5000",
+    "json-server": "json-server --watch db.json --port 5001",
     "dev": "concurrently \"npm start\" \"npm run json-server\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -49,5 +49,5 @@
     "concurrently": "^6.2.1",
     "json-server": "^0.16.3"
   },
-  "proxy": "http://localhost:5000"
+  "proxy": "http://localhost:5001/"
 }

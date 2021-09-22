@@ -2,24 +2,17 @@
   "logs": [
     {
       "id": 1,
-      "message": "this is message for id 01",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "ABC"
+      "message": "POLO",
+      "attention": true,
+      "tech": "Bhupender",
+      "date": "2021-09-21T03:43:38.375Z"
     },
     {
       "id": 2,
-      "message": "this is message for id 02",
-      "attention": true,
-      "date": "05-04-2020",
-      "tech": "POLO"
-    },
-    {
-      "id": 3,
-      "message": "this is 03",
+      "message": "wah wah wah a",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "TPU"
+      "tech": "POLO",
+      "date": "2021-09-21T03:43:51.607Z"
     }
   ],
   "techs": [
